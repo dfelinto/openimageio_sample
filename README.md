@@ -4,6 +4,8 @@ OpenImageIO Sampler
 I want to implement something for OpenImageIO. For that I first neeed a way to get
 the basic running.
 
+Reference material:
+https://openimageio.readthedocs.io/en/latest/imageinput.html#custom-i-o-proxies-and-reading-the-file-from-a-memory-buffer
 
 Notes:
 
